@@ -75,7 +75,7 @@ FinalDemo_KLTN/
 ### ⚡ Cài đặt một lệnh
 
 ```bash
-git clone <link-github>
+git clone <[link-github](https://github.com/minphhuoc1/multi-view-bev-segmentation)>
 cd FinalDemo_KLTN
 python -m venv venv
 # Kích hoạt venv (Windows): venv\Scripts\activate
